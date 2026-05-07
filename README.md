@@ -1,4 +1,4 @@
-```markdown
+
 # 📚 Java JDBC - Conexão com MySQL
 
 > ⚠️ **Aviso:** Este código foi copiado como conteúdo de uma **aula introdutória** sobre conexão com banco de dados em Java. Ele não representa boas práticas de produção e tem fins exclusivamente educacionais.
